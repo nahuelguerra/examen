@@ -72,7 +72,7 @@ El proyecto puede inicializarse desde ExamenStacktraceApplication.java corriendo
 * Obtener un profesor por id (metodo GET localhost:8080/api/teachers/{id del profesor})
 
 * Dar de alta un profesor (metodo POST localhost:8080/api/teachers)
-![img.png](assets/postteacher.png)
+![img.png](assets/postteacher2.png)
 * Modificacion de un curso (metodo PUT localhost:8080/api/teachers)
 ![img.png](assets/putteacher.png)
 * Borrado de un curso (metodo DELETE localhost:8080/api/teachers/{id del profesor})
